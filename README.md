@@ -36,17 +36,18 @@ I'm a computer science student focused on web development, especially frontend t
 
 ## 🔗 Connect With Me
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=social)](https://www.linkedin.com/in/surafel-mulugeta-490b11371/)
-&nbsp; &nbsp;
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=social)](https://x.com/SuraM2247)
-&nbsp; &nbsp;
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=social)](https://www.youtube.com/@SuraMuller)
-&nbsp; &nbsp;
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=social)](https://www.instagram.com/suuuuuura3/?__pwa=1)
-
-</div>
+<a href="https://www.linkedin.com/in/surafel-mulugeta-490b11371/" target="_blank">
+  <img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/suuuuuura3/?__pwa=1" target="_blank">
+  <img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/instagram.svg" alt="Instagram"/>
+</a>
+<a href="https://x.com/SuraM2247" target="_blank">
+  <img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/x.svg" alt="Twitter"/>
+</a>
+<a href="https://www.youtube.com/@SuraMuller" target="_blank">
+  <img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/youtube.svg" alt="YouTube"/>
+</a>
 
 ---
 
