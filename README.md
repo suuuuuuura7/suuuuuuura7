@@ -1,6 +1,6 @@
 # 👋 I'm Surafel Mulugeta
 
-**Junior Frontend Developer **
+Junior Frontend Developer
 
 💻 Passionate about building meaningful web projects  
 🎮 Love video games and coding  
@@ -33,24 +33,14 @@ I'm a computer science student focused on web development, especially frontend t
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suuuuuuura7&theme=dark&layout=compact&hide_border=true)
 
 ---
+
 ## 🔗 Connect With Me
 
-<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surafel-mulugeta-490b11371/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SuraM2247)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SuraMuller)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/suuuuuura3/?__pwa=1)
 
-<a href="https://www.linkedin.com/in/surafel-mulugeta-490b11371/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&style=for-the-badge" alt="LinkedIn" />
-</a>
-<a href="https://x.com/SuraM2247" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&style=for-the-badge" alt="Twitter" />
-</a>
-<a href="https://www.youtube.com/@SuraMuller" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&style=for-the-badge" alt="YouTube" />
-</a>
-<a href="https://www.instagram.com/suuuuuura3/?__pwa=1" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&style=for-the-badge" alt="Instagram" />
-</a>
-
-</div>
 
 ---
 
