@@ -33,20 +33,22 @@ I'm a computer science student focused on web development, especially frontend t
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suuuuuuura7&theme=dark&layout=compact&hide_border=true)
 
 ---
-
 ## 🔗 Connect With Me
 
 <a href="https://www.linkedin.com/in/surafel-mulugeta-490b11371/" target="_blank">
-  <img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" alt="LinkedIn"/>
+  <img width="50" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/suuuuuura3/?__pwa=1" target="_blank">
-  <img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/instagram.svg" alt="Instagram"/>
+  <img width="50" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://x.com/SuraM2247" target="_blank">
-  <img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/x.svg" alt="Twitter"/>
+  <img width="50" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=x&logoColor=white&style=for-the-badge" alt="Twitter"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/@SuraMuller" target="_blank">
-  <img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/youtube.svg" alt="YouTube"/>
+  <img width="50" src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube"/>
 </a>
 
 ---
