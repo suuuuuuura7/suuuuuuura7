@@ -1,6 +1,6 @@
 # 👋 I'm Surafel Mulugeta
 
-Junior Frontend Developer
+Junior Developer
 
 💻 Passionate about building meaningful web projects  
 🎮 Love video games and coding  
@@ -10,7 +10,7 @@ Junior Frontend Developer
 
 ## 🎯 About Me
 
-I'm a computer science student focused on web development, especially frontend technologies. I enjoy creating simple but impactful projects and continuously improving my skills through hands-on experience.
+focused on web development I enjoy creating simple but impactful projects and continuously improving my skills through hands-on experience.
 
 ---
 
