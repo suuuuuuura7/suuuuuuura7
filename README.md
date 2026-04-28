@@ -2,7 +2,7 @@
 
 Junior Developer
 
-💻 Passionate about building meaningful web projects  
+💻 Passionate about building meaningful projects and problem-solving 
 🎮 Love video games and coding  
 📚 Always learning and experimenting  
 
