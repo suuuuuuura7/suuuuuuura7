@@ -1,6 +1,6 @@
 # Surafel Mulugeta
  
-Full-Stack Developer (MERN Stack) | Computer Science Student
+Full-Stack Developer
  
 ---
  
