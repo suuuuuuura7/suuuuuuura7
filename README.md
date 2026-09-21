@@ -6,7 +6,7 @@ Full-Stack Developer (MERN Stack) | Computer Science Student
  
 ## About Me
  
-I'm a second-year Computer Science student who builds full-stack web applications independently, from database schema to deployed product. My focus is the MERN stack (MongoDB, Express, React, Node.js), and I care about the parts of a project that go beyond just getting features working: role-based access control, clean API structure, auth security, and making sure what I ship is actually production-ready rather than a demo.
+I'm a Computer Science student who builds full-stack  applications independently, from database schema to deployed product. and I care about the parts of a project that go beyond just getting features working: role-based access control, clean API structure, auth security, and making sure what I ship is actually production-ready rather than a demo.
  
 I'm also spending time on the side most developers skip early on — SEO fundamentals and structuring apps so they're discoverable and performant once they're live, not just functional in a dev environment.
  
@@ -24,17 +24,8 @@ I'm also spending time on the side most developers skip early on — SEO fundame
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
- 
----
- 
-## What I've Built
- 
- 
-**MAS COFFEE & CAKE Digital Menu** — MERN-based QR menu system for a real café client. Customers scan a QR code for a live menu; staff manage items through an admin dashboard. Built and debugged a full auth flow across separate frontend/backend deployments.
- 
 
+ 
  
 ---
  
